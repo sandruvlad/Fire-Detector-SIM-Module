@@ -1,4 +1,4 @@
-The code will need the phone number where the messages will be sent. From experience, in the UK, EE is the easiest providetr that will work with the GSM800L Module.
+The code will need the phone number where the messages will be sent. From experience Orange or EE is the easiest provider that will work with the GSM800L Module.
 
 # Fire-Detector-SIM-Module![image](https://user-images.githubusercontent.com/98205160/167802834-e7424c7d-0364-4087-89b6-9db191267698.png)
 
