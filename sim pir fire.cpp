@@ -7,7 +7,7 @@ int sensor = 6;              // Pir Sensor Pin D6
 int state = LOW;             // default state is no movement
 int val = 0;                 // variable to store the sensor status (value)
 
-const String Phone = "+447391696429";  // Phone number to send the messages to
+const String Phone = "Phone Number";  // Phone number to send the messages to
 
 void setup() {                      // Starting setup of the device
   Serial.begin(9600);                // Serial begin at 9600 rate
